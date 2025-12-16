@@ -11,7 +11,7 @@ To run the game after you loaded the game you type in run then press enter.
 
 To get to source code after you loaded the game you press escape key.
 
-This is a one to one port.
+This is a one to one port with the exception of addon mod support.
 
 <a href="https://daniel-hanrahan-tools-and-games.github.io/Quest_For_Chalice_Compacted/Quest_For_Chalice_Compacted_Web/index.html">Play Game in Browser Here</a>
 
