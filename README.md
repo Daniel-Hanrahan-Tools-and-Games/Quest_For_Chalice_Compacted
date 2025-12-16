@@ -1,5 +1,5 @@
 # Quest_For_Chalice_Compacted
-Compacted version of Quest_For_Chalice for the Tic-80 
+Compacted version of Quest_For_Chalice is written in Lua
 
 Controls: Arrow keys or D-Pad to move, z on keyboard or a on xbox style controllers to jump.
 
