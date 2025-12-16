@@ -1,6 +1,8 @@
 # Quest_For_Chalice_Compacted
 Compacted version of Quest_For_Chalice is written in Lua
 
+Notice/title screen takes ten seconds to load the game on browser.
+
 Controls: Arrow keys or D-Pad to move, z on keyboard or a on xbox style controllers to jump.
 
 The executable and source code is in one file.
